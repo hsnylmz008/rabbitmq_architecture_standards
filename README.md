@@ -2,6 +2,8 @@
 
 Bu proje, RabbitMQ'nun farklı exchange tiplerini ve kullanım senaryolarını Go programlama dili ile örneklemektedir.
 
+https://hsnylmz08.medium.com/rabbitmq-mimari-standartları-kapsamlı-bir-rehber-16b3eb6ab83d
+
 ## Proje Yapısı
 ```
 rabbitmq-examples/
